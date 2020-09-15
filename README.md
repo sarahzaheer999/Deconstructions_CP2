@@ -21,7 +21,7 @@ by Sarah Zaheer and Chloe Kim
 1) None but the user's movement is captured and converted.
 
 
-### The Treachery of Sanctuary: https://www.youtube.com/watch?v=I5__9hq-yas
+## The Treachery of Sanctuary: https://www.youtube.com/watch?v=I5__9hq-yas
 
 ### Data
 1) Posture/movement tracking motor.
