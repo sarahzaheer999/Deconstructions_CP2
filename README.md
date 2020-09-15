@@ -43,6 +43,25 @@ by Sarah Zaheer and Chloe Kim
 
 # Deconstructions by Chloe kim (2)
 
+## Pavegen Power the world with footsteps: https://www.youtube.com/watch?v=VD15-2Uriyc
+### Data
+1) Generates energy for people’s footsteps.
+2) The energy for people’s footsteps produce kinetic energy and Pavegen Power turns it into electricity.
+3) 1 footstep = 20 seconds of light.
+4) Generates energy, data, and engagement.
+
+### Rendering
+1) Floor panels (grid-like) capture kinetic energy and the system in the panels turn the kinetic energy to electricity.
+2) Panels are lightly pressed down (detects motions).
+
+### Simulation:
+1) None. 
+
+### Events/User Input:
+1) Mobile Devices - App to track location and find the identity of the people.
+2) Walk (More physical transportation on ground, more electricity).
+
+
 ## The Treachery of Sanctuary: https://www.youtube.com/watch?v=I5__9hq-yas
 
 ### Data
