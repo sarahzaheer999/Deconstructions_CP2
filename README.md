@@ -4,7 +4,7 @@ by Sarah Zaheer and Chloe Kim
 
 # Deconstructions by Sarah Zaheer (2)
 
-## Pavegen Power the world with footsteps: https://www.youtube.com/watch?v=VD15-2Uriyc
+## 1) Pavegen Power the world with footsteps: https://www.youtube.com/watch?v=VD15-2Uriyc
 ### Data
 1) Footsteps of people stepping on the electric grid floor.
 
@@ -21,7 +21,7 @@ by Sarah Zaheer and Chloe Kim
 1) None but the user's movement is captured and converted.
 
 
-## The Treachery of Sanctuary: https://www.youtube.com/watch?v=I5__9hq-yas
+## 2) The Treachery of Sanctuary: https://www.youtube.com/watch?v=I5__9hq-yas
 
 ### Data
 1) Posture/movement tracking motor.
@@ -43,7 +43,7 @@ by Sarah Zaheer and Chloe Kim
 
 # Deconstructions by Chloe kim (2)
 
-## Pavegen Power the world with footsteps: https://www.youtube.com/watch?v=VD15-2Uriyc
+## 1) Pavegen Power the world with footsteps: https://www.youtube.com/watch?v=VD15-2Uriyc
 ### Data
 1) Generates energy for people’s footsteps.
 2) The energy for people’s footsteps produce kinetic energy and Pavegen Power turns it into electricity.
@@ -62,7 +62,7 @@ by Sarah Zaheer and Chloe Kim
 2) Walk (More physical transportation on ground, more electricity).
 
 
-## The Treachery of Sanctuary: https://www.youtube.com/watch?v=I5__9hq-yas
+## 2) The Treachery of Sanctuary: https://www.youtube.com/watch?v=I5__9hq-yas
 
 ### Data
 1) 3 panels (3 stages), triptych.
@@ -82,7 +82,7 @@ by Sarah Zaheer and Chloe Kim
 
 # Collaborative Deconstructions by Chloe and Sarah (2)
 
-## Cleaning Robot:https://www.youtube.com/watch?v=MaJlVytKGWQ
+## 1) Cleaning Robot:https://www.youtube.com/watch?v=MaJlVytKGWQ
 
 ### Data
 1) Infrared sensors to know more about its environment, detects obstacles.
@@ -105,7 +105,7 @@ by Sarah Zaheer and Chloe Kim
 1) Scheduling on the app.
 2) Button to turn on and off the device or change setting.
 
-## Barbican's Rain Room: https://www.youtube.com/watch?v=EkvazIZx-F0
+## 2) Barbican's Rain Room: https://www.youtube.com/watch?v=EkvazIZx-F0
 
 ### Data
 1) 2,500 litres of water, falling at 1,000 litres per minute.
